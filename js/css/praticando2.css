@@ -1,0 +1,47 @@
+body{
+
+    background-color: rgb(155, 233, 104);
+    font-family: sans-serif;
+    font-size: 15pt;
+    font: normal;
+}
+header {
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.596);
+}
+
+footer{
+padding-top: 10px;
+
+}
+
+div{
+    text-align: center;
+    padding: 15px;
+}
+.color{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.imgrounded{
+    border-radius: 50%;
+}
+
+.textcentro{
+    text-align: center;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
